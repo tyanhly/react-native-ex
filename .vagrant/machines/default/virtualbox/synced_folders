@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"D:/env/projects/reactNativeEx","disabled":false,"mount_options":["dmode=776,fmode=777"],"__vagrantfile":true}}}
